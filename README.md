@@ -1,6 +1,7 @@
 
 <img align="right" height="250" style="margin-left: 25px" src="https://i.imgur.com/Tznn1IZ.gif"/>
-### Oie, sou a Gabriela Araujo!
+
+## Oie, sou a Gabriela Araujo!
 
 
 
