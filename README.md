@@ -6,7 +6,7 @@
 
 
 
-- :computer: Estudante de Desenvolvimento Front-End na Laboratória.
+- :computer: Desenvolvedora Front-end Jr.
 - 🌱  Atualmente estudo sobre: HTML, CSS, JS, Firebase.
 
  #### Linguagens de programação, frameworks e ferramentas:
