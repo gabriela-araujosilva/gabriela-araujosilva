@@ -7,7 +7,7 @@
 
 
 - :computer: Desenvolvedora Front-end Jr.
-- 🌱  Atualmente estudo sobre: HTML, CSS, JS, Firebase.
+- 🌱  Atualmente estudo sobre: JAVA e Scrum.
 
  #### Linguagens de programação, frameworks e ferramentas:
  
